@@ -2,7 +2,7 @@
 a = input("Enter a string:")
 print(a[-3::-1])
 
-#Basic aritheatic operations
+#Basic arithematic operations
 N1 = int(input("\nEnter a number:"))
 print("N1 =",N1)
 N2 = int(input("Enter a anther number:"))
